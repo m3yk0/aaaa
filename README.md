@@ -33,37 +33,16 @@ você acabou de clonar!!
 {
 	"prefix": "/",
 	"ownerNumber": "551193xxxxx",
-	"apiKey": "Your ApiKey here"
+	"apiKey": "Para usar apis"
 }
 ```
-
-## Funções
-
-| May |                Sticker           |
-| :-----------: | :--------------------------------: |
-|       ✅       | Por foto        |
-|       ✅       | Marcando a foto |
-|       ✅       | Por gif         |
-|       ✅       | Marcando o gif  |
-|       ✅       | Sticker vira ft |
-
-| May |                Outros         |
-| :-----------: | :--------------------------------: |
-|       ✅       | Baixa música      |
-|       ✅       | Kick              |
-|       ✅       | Tagall            |
-|       ✅       | Welcome           |
-|       ✅       | setprefix         |
-
-| Me chama no wpp para adquirir a versão premium |
-| :--------------------------------------------: |
 
 ## Agradecimento
 * <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/adiwajshing/Baileys%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 *  <a href="https://github.com/MhankBarBar"><img alt="GitHub" src="https://img.shields.io/badge/MhankBarBar%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 
 ## Grupo
-* <a href="https://chat.whatsapp.com/KLfjq8AK4Jz62Pqfz5sv0v"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Grupo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://chat.whatsapp.com/K5O6dcMa26W9Ev43mGhBnC"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Grupo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ### Donate
 * <a href="wa.me/+5511930758170"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
