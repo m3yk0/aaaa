@@ -13,15 +13,12 @@ const help = (prefix) => {
   └─ ❏ ${prefix}play (nome da música)
 ◪ *STICKER*
   │
-  ├─ ❏ ${prefix}s
-  ├─ ❏ ${prefix}sticker
   ├─ ❏ ${prefix}img
-  └─ ❏ ${prefix}fga
+  ├─ ❏ ${prefix}s2
+  └─ ❏ ${prefix}s
 ◪ *OUTROS*
   │
-  ├─ ❏ ${prefix}clearall
-  ├─ ❏ ${prefix}sticker
-  └─ ❏ ${prefix}gay
+  └─ ❏ ${prefix}clearall
 ◪ *ADMS*
   │
   ├─ ❏ ${prefix}welcome
@@ -35,32 +32,12 @@ const help = (prefix) => {
   ├─ ❏ ${prefix}promover
   ├─ ❏ ${prefix}membros
   └─ ❏ ${prefix}notif
-◪ *PRODUTOS*
-  │
-  ❏ Seg: Brasileiros e Mundiais
-  ❏ Inscritos: Brasileiros e Mundiais
-  ❏ Likes: Brasileiros e Mundiais
-  ❏ Views: Brasileiros e Mundiais
-  ❏ May: premium
-◪ *PLATAFORMAS*
-  │
-  ❏ Instagram
-  ❏ Youtube
-  ❏ Tiktok
-  ❏ Twitch
-  ❏ Whatsapp
 ◪ *CRÉDITOS*
   │
   ❏ Criador : Thoth
-  ❏ Instagram: @crwth.gs
   ❏ Voz da May : Rafaella
-  ❏ Instagram: @rafaella.saraiva83
   ❏ Logo : Edu
-  ❏ Site: priv8.com.br (off)
   ❏ Auxílio: Kill
-  ❏ Github: github.com/KillovSky
-  ❏ Animes: Haru a
-  ❏ Instagram: @blue_.ghost_
 `
 }
 
